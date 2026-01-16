@@ -1,3 +1,7 @@
- # Python
-def saudacao(nome):
+# CURSO DE PYTHON - UDEMY
+# EXEMPLO DE ARQUIVO .GITIGNORE PARA IGNORAR ARQUIVOS ESPECÍFICOS
+# AUTOR:CLAUDEMIR PEDROSO CUBAS
+
+curso = "Python Udemy"
+print("Bem-vindo ao curso de", curso)
 
