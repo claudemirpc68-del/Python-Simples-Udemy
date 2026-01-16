@@ -5,3 +5,5 @@
 curso = "Python Udemy"
 print("Bem-vindo ao curso de", curso)
 
+# EXEMPLO DE CÓDIGO SIMPLES
+print
