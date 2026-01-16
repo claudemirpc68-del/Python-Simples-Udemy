@@ -6,4 +6,4 @@ curso = "Python Udemy"
 print("Bem-vindo ao curso de", curso)
 
 # EXEMPLO DE CÓDIGO SIMPLES
-print
+print("Este é um exemplo de arquivo Python.")
